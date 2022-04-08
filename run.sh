@@ -1,3 +1,3 @@
 #!bin/bash
 . .env
-yarn pls
+yarn ping-alive

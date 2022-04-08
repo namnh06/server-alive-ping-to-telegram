@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "pls": "ts-node src/index.ts"
+    "ping-alive": "ts-node src/index.ts"
   },
   "devDependencies": {
     "@tsconfig/recommended": "^1.0.1",
